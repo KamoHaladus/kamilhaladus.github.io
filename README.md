@@ -16,4 +16,3 @@ You can also build the app in production mode,
 ```bash
 yarn build
 ```
-and open `build/index.html` in your favorite browser.
